@@ -1,1 +1,4 @@
-guit
+guit init
+guit add file name
+guit commit -m "first try"
+guit push -u origin master
